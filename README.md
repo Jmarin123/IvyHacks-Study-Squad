@@ -1,3 +1,3 @@
-# IvyHacks-Study-Squad
-# Kira Tran, Jason Osorio-Marin, Sriya Pidatala, and Cindy Zou
-# October 1-4, 2020
+# Study Squad
+Kira Tran, Jason Osorio-Marin, Sriya Pidatala, and Cindy Zou
+IvyHacks October 1-4, 2020
